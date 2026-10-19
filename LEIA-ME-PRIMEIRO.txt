@@ -1,0 +1,9 @@
+HD LAUNCHER v1.7 - ATUALIZACAO AUTOMATICA
+
+Leia o README.md.
+1) Atualize o codigo do seu repositorio no GitHub.
+2) Aguarde a compilacao e teste o Setup.exe.
+3) No Actions, execute novamente com a opcao PUBLICAR RELEASE marcada.
+4) Publique o site depois que a Release existir.
+
+Importante: os jogadores da v1.6 precisam instalar a v1.7 uma vez.
